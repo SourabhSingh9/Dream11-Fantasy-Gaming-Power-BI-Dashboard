@@ -24,7 +24,7 @@ This project was created to showcase beginner-level data visualization and story
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot]([Dashboard_Screenshot.png](https://github.com/SourabhSingh9/Dream11-Fantasy-Gaming-Power-BI-Dashboard/blob/main/Dream11%20Dashboard%20fantasy%20sports%20screenshot%20power%20bi.png))
 
 ## 👤 Created By
 
